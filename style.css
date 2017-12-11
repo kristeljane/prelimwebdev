@@ -1,0 +1,100 @@
+body{
+    font-family: Arial, "Century Gothic", Verdana;
+    text-align: center;
+    background-color:blue;
+     box-shadow: 5 5 5 5;
+    
+}
+.wrapper{
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0px;
+    margin-bottom:0px;
+    box-shadow: 20px 20px 25px 25px white;
+}
+   
+
+.header{
+    height: 125px;
+    width: 100%;
+    color:white;
+    margin-bottom: 4px;
+}
+    
+.logo{
+    height:75px;
+    background-color:blueviolet;
+    width: 100%;
+   border-top-right-radius: 10px;
+   border-top-left-radius: 10px;
+}
+.nav{
+    height:50px;
+    background-color:seagreen;
+    width: 100%;
+    margin-bottom:25px;
+
+}
+.content{
+    width:100%;
+   
+}
+.search{
+   
+    background-color:aqua;
+    height:400px;
+    width:20%;
+    float:left;
+    color:white;
+    margin-right: 3px;
+}
+.banner{
+   
+    background-color:#FA8072;
+    height:150px;
+    width:55%;
+    float:left;
+    color:white;
+}
+.products{
+    background-color:#DAA520;
+    height:250px;
+    width:55%;
+    float:left;
+    color:white;
+    text-align: justify;
+}
+.sidenav{
+    background-color:#FFFF99;
+    height:250px;
+    width:12%;
+    float:right;
+    color:brown;
+}
+.categories{
+    background-color:	#FDFF00;
+    height:250px;
+    width:12%;
+    float:right;
+    margin-right:3px;
+    color:brown;
+}
+.other{
+    background-color:pink;
+    height:145px;
+    width:24%;
+    float:right;
+    margin-top:3px;
+    margin-left:1px;
+    color:brown;
+}
+.footer{
+    
+    background-color:darkblue;
+    height:50px;
+    float:left;
+    width:100%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
